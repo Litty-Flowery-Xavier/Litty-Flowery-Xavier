@@ -3,6 +3,7 @@
 
 ### Hello, I'm Litty,
 
-## An Enthusiastic btech student in AI and DS
+## An enthusiastic btech student in AI and DS
+   - 👩‍🎓 B.Tech 4th year
 
-### A little bit about me.
+I'm an enthusiastic AI student who enjoys exploring data classification, modeling, and impactful AI innovations!
