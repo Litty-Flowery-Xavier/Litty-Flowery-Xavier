@@ -3,7 +3,7 @@
 
 ### Hello, I'm Litty,
 
-## An enthusiastic btech student in AI and DS
-   - 👩‍🎓 B.Tech 4th year
+## An enthusiastic aspirant in software development AI and DS
+   - 👩‍🎓 B.Tech
 
-I'm an enthusiastic AI student who enjoys exploring data classification, modeling, and impactful AI innovations!
+I'm an enthusiastic software developer with the knowledge in java springboot ai and ml!
